@@ -1,11 +1,16 @@
 _repo: The-mystery-of-Easter-island-the-story-of-an-expedition_69807
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69807-h/images/cover.jpg
 creator:
   author:
     agent_name: Routledge, Mrs. Scoresby
     gutenberg_agent_id: '55431'
     url: http://www.gutenberg.org/2009/agents/55431
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69807#The-mystery-of-Easter-island-the-story-of-an-expedition
 gutenberg_issued: '2023-01-15'
 identifiers:
   gutenberg: '69807'
